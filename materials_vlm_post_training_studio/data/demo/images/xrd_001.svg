@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480">
+  <rect width="720" height="480" fill="#f7f5ef"/>
+  <g stroke="#b8b2a2" stroke-width="1"><path d="M80 380H650"/><path d="M80 80V380"/></g>
+  <polyline fill="none" stroke="#215a6d" stroke-width="4" points="80,360 135,348 170,120 190,346 245,335 290,170 312,338 360,320 410,95 430,330 520,315 570,205 590,325 650,318"/>
+  <g fill="#1f2933" font-family="Arial" font-size="18">
+    <text x="300" y="430">2 theta</text><text x="20" y="80" transform="rotate(-90 20 80)">Intensity</text><text x="94" y="58">Synthetic XRD pattern</text>
+  </g>
+</svg>

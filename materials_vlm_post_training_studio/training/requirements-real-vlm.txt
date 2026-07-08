@@ -1,0 +1,10 @@
+torch
+transformers>=4.53.0
+accelerate
+peft
+trl
+bitsandbytes; platform_system != "Windows"
+qwen-vl-utils
+pillow
+datasets
+pyyaml

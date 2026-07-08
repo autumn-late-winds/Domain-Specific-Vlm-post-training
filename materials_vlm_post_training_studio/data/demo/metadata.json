@@ -1,0 +1,6 @@
+{
+  "name": "Synthetic Materials VLM Demo",
+  "version": "0.1.0",
+  "notice": "All images are synthetic SVG placeholders generated for local workflow testing.",
+  "tasks": ["sem_description", "caption_generation", "spectrum_interpretation", "chart_understanding"]
+}

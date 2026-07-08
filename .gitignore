@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pytest-cache-files-*/
+.venv/
+venv/
+
+# Node / frontend
+node_modules/
+dist/
+.vite/
+.vite-cache*/
+
+# Runtime data and outputs
+outputs/
+logs/
+*.log
+
+# Local environment
+.env
+*.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,32 @@
+model_name: Qwen/Qwen3-VL-2B-Instruct
+output_dir: outputs/experiments/qwen3_vl_qlora
+train_file: data/demo/sft_train.jsonl
+val_file: data/demo/sft_val.jsonl
+image_root: data/demo/images
+learning_rate: 0.0002
+batch_size: 1
+gradient_accumulation_steps: 8
+num_train_epochs: 1
+max_seq_length: 2048
+lora_r: 16
+lora_alpha: 32
+lora_dropout: 0.05
+target_modules:
+  - q_proj
+  - k_proj
+  - v_proj
+  - o_proj
+  - gate_proj
+  - up_proj
+  - down_proj
+use_4bit: true
+use_bf16: true
+use_fp16: false
+torch_dtype: bfloat16
+attn_implementation:
+logging_steps: 5
+save_steps: 100
+eval_steps: 100
+seed: 42
+local_files_only: true
+status: interface_only

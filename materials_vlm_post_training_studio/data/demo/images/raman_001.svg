@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480">
+  <rect width="720" height="480" fill="#fbfbfb"/>
+  <g stroke="#d6d6d6" stroke-width="1"><path d="M80 380H650"/><path d="M80 80V380"/></g>
+  <path d="M80 350 C130 345 150 330 180 250 C210 180 230 330 270 330 C330 332 340 160 370 150 C405 145 402 330 450 325 C500 318 520 230 545 215 C575 200 575 318 650 310" fill="none" stroke="#7b3f00" stroke-width="4"/>
+  <g fill="#1f2933" font-family="Arial" font-size="18">
+    <text x="278" y="430">Raman shift</text><text x="88" y="58">Synthetic Raman spectrum</text>
+  </g>
+</svg>
