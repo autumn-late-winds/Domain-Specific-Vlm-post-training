@@ -11,7 +11,7 @@ This version intentionally focuses on a fast portfolio-ready loop:
 
 ## Web Preview
 
-![Materials VLM Post-Training Studio dashboard](docs/images/dashboard.png)
+![Materials VLM Post-Training Studio dashboard](docs/images/dashboard-preview-v2.png)
 
 ## Visual Demo Flow
 
