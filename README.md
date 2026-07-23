@@ -9,6 +9,14 @@ This version intentionally focuses on a fast portfolio-ready loop:
 - React + Vite dashboard for dataset preview, training, evaluation, playground, and report review.
 - Deterministic mock VLM behavior so the project opens without downloading large models or needing a GPU.
 
+## Web Preview
+
+![Materials VLM Post-Training Studio dashboard](docs/images/dashboard.png)
+
+## Visual Demo Flow
+
+![Inspect, validate, train, and evaluate](docs/images/workflow.svg)
+
 ## Why This Matters
 
 Materials science VLM applications need answers that are specific, grounded, and cautious. A general model may describe an image generically or hallucinate composition and performance. This project shows the engineering skeleton for post-training and evaluation before connecting real LoRA, QLoRA, and DPO training.
