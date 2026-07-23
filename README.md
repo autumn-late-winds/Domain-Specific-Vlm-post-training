@@ -15,7 +15,7 @@ This version intentionally focuses on a fast portfolio-ready loop:
 
 ## Visual Demo Flow
 
-![Inspect, validate, train, and evaluate](docs/images/workflow.svg)
+![Inspect, validate, train, and evaluate](docs/images/workflow.png)
 
 ## Why This Matters
 
